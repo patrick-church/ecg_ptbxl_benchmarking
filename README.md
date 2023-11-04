@@ -1,3 +1,5 @@
+# I am currently replicating this experiment for my research lab with Professor Matthew Hilimire, all credit for this code belongs to those referenced in the corresponding articles listed in the References below.
+
 # Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL
 This repository is accompanying our article [Deep Learning for ECG Analysis: Benchmarks
 and Insights from PTB-XL](https://doi.org/10.1109/jbhi.2020.3022989), which builds on the [PTB-XL dataset](https://www.nature.com/articles/s41597-020-0495-6). 
